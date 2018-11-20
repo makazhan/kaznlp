@@ -42,8 +42,9 @@ Contents
 
 `1. Installation <#ch1>`__\ 
 
-`2. Initial normalization module <#ch2>`__\  `2.1 Example
-usage <#ch21>`__\  `2.2 Citing <#ch22>`__\ 
+`2. Initial normalization module <#ch2>`__\
+`2.1 Example usage <#ch21>`__\
+`2.2 Citing <#ch22>`__\ 
 
 `3. Tokenizers <#ch3>`__\  `3.1 Example usage <#ch31>`__\  `3.2
 Citing <#ch32>`__\ 
