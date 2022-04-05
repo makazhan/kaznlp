@@ -1,7 +1,7 @@
 
 # KazNLP: NLP tools for Kazakh language
 
-This project aims at building free/open source language processing tools for [Kazakah](https://en.wikipedia.org/wiki/Kazakh_language).
+This project aims at building free/open source language processing tools for [Kazakh](https://en.wikipedia.org/wiki/Kazakh_language).
 The proposed set of tools is designed to tackle a wide range of NLP problems that can be divided into pre-processing, core processing, and application-level routines.
 It is expected that the tools will be implemented in [Python 3](https://www.python.org/) programming language and released under [CC-SA-BY](https://creativecommons.org/licenses/by-sa/4.0/) or compatible licenses.
 
